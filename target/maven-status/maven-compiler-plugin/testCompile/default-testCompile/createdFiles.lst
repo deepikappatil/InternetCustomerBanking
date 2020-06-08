@@ -1,0 +1,13 @@
+com\selenium\pageObjects\EditCustomerPage.class
+com\selenium\utilities\ExtentReporting.class
+com\selenium\pageObjects\LoginPage.class
+com\selenium\utilities\ReadConfigFile.class
+com\selenium\testCases\BaseClass.class
+com\selenium\pageObjects\AddCustomerPage.class
+com\selenium\utilities\ExcelUtils.class
+com\selenium\testCases\TC_EditCustomerTest_004.class
+com\selenium\testCases\TC_LoginTest_001.class
+com\selenium\testCases\TC_AddCustomerTest_003.class
+com\selenium\pageObjects\DeleteCustomerPage.class
+com\selenium\testCases\TC_LoginDDT_002.class
+com\selenium\testCases\TC_DeleteCustomerTest_005.class

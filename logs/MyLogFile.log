@@ -1,0 +1,107 @@
+[INFO ] 2020-05-26 15:42:05.581 [main] BaseClass - Launched Chrome Browser
+[INFO ] 2020-05-26 15:46:23.093 [main] BaseClass - Entered username
+[INFO ] 2020-05-26 15:46:23.622 [main] BaseClass - Entered password
+[INFO ] 2020-05-26 15:46:24.017 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-26 15:50:16.918 [main] BaseClass - Entered username
+[INFO ] 2020-05-26 15:50:17.123 [main] BaseClass - Entered password
+[INFO ] 2020-05-26 15:50:18.071 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-26 15:50:20.148 [main] BaseClass - Login test passed
+[INFO ] 2020-05-26 15:50:52.966 [main] BaseClass - Entered username
+[INFO ] 2020-05-26 15:50:53.235 [main] BaseClass - Entered password
+[INFO ] 2020-05-26 15:50:54.029 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-26 15:50:54.039 [main] BaseClass - Login test passed
+[INFO ] 2020-05-26 17:02:19.640 [main] BaseClass - Entered username
+[INFO ] 2020-05-26 17:02:19.769 [main] BaseClass - Entered password
+[INFO ] 2020-05-26 17:02:20.793 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-26 17:02:20.809 [main] BaseClass - Login test passed
+[INFO ] 2020-05-27 10:42:26.757 [main] BaseClass - Entered username
+[INFO ] 2020-05-27 10:42:26.910 [main] BaseClass - Entered password
+[INFO ] 2020-05-27 10:42:28.353 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-27 10:42:28.369 [main] BaseClass - Login test passed
+[INFO ] 2020-05-27 10:49:36.109 [main] BaseClass - Entered username
+[INFO ] 2020-05-27 10:49:36.203 [main] BaseClass - Entered password
+[INFO ] 2020-05-27 10:49:38.838 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-27 10:49:38.853 [main] BaseClass - Login test passed
+[INFO ] 2020-05-27 11:01:37.144 [main] BaseClass - Entered username
+[INFO ] 2020-05-27 11:01:37.210 [main] BaseClass - Entered password
+[INFO ] 2020-05-27 11:01:39.609 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-27 11:01:39.626 [main] BaseClass - Login test passed
+[INFO ] 2020-05-27 11:32:53.082 [main] BaseClass - Entered username
+[INFO ] 2020-05-27 11:32:53.171 [main] BaseClass - Entered password
+[INFO ] 2020-05-27 11:32:56.011 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-27 11:32:56.020 [main] BaseClass - Login test passed
+[INFO ] 2020-05-27 11:45:48.544 [main] BaseClass - Entered username
+[INFO ] 2020-05-27 11:45:48.662 [main] BaseClass - Entered password
+[INFO ] 2020-05-27 11:45:50.968 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-27 11:45:50.979 [main] BaseClass - Login test passed
+[INFO ] 2020-05-27 11:49:12.329 [main] BaseClass - Entered username
+[INFO ] 2020-05-27 11:49:12.477 [main] BaseClass - Entered password
+[INFO ] 2020-05-27 11:49:13.387 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-27 11:49:13.398 [main] BaseClass - Login test passed
+[INFO ] 2020-05-27 11:53:32.297 [main] BaseClass - Entered username
+[INFO ] 2020-05-27 11:53:32.448 [main] BaseClass - Entered password
+[INFO ] 2020-05-27 11:53:33.805 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-28 11:17:13.532 [main] BaseClass - Entered username
+[INFO ] 2020-05-28 11:17:14.279 [main] BaseClass - Entered password
+[INFO ] 2020-05-28 11:17:15.229 [main] BaseClass - Clicked Login button
+[INFO ] 2020-05-28 11:17:15.242 [main] BaseClass - Login test passed
+[INFO ] 2020-05-28 11:17:44.080 [main] BaseClass - username provided
+[INFO ] 2020-05-28 11:17:44.225 [main] BaseClass - password provided
+[INFO ] 2020-05-28 11:17:48.046 [main] BaseClass - Login passed
+[INFO ] 2020-05-28 11:17:53.573 [main] BaseClass - username provided
+[INFO ] 2020-05-28 11:17:53.688 [main] BaseClass - password provided
+[INFO ] 2020-05-28 11:17:58.532 [main] BaseClass - username provided
+[INFO ] 2020-05-28 11:17:58.698 [main] BaseClass - password provided
+[INFO ] 2020-05-28 11:18:04.254 [main] BaseClass - username provided
+[INFO ] 2020-05-28 11:18:04.402 [main] BaseClass - password provided
+[INFO ] 2020-05-28 11:18:08.420 [main] BaseClass - Login passed
+[INFO ] 2020-05-28 11:18:13.607 [main] BaseClass - username provided
+[INFO ] 2020-05-28 11:18:13.771 [main] BaseClass - password provided
+[INFO ] 2020-06-02 11:36:43.741 [main] BaseClass - Entered username
+[INFO ] 2020-06-02 11:36:43.846 [main] BaseClass - Entered password
+[INFO ] 2020-06-02 11:36:46.470 [main] BaseClass - Clicked Login button
+[INFO ] 2020-06-02 11:36:46.489 [main] BaseClass - Login test passed
+[INFO ] 2020-06-02 11:37:48.454 [main] BaseClass - Entered username
+[INFO ] 2020-06-02 11:37:48.509 [main] BaseClass - Entered password
+[INFO ] 2020-06-02 11:37:56.096 [main] BaseClass - Clicked Login button
+[INFO ] 2020-06-02 11:37:56.120 [main] BaseClass - Login test passed
+[INFO ] 2020-06-02 11:38:08.514 [main] BaseClass - Username provided
+[INFO ] 2020-06-02 11:38:08.581 [main] BaseClass - Password provided
+[INFO ] 2020-06-02 11:38:16.424 [main] BaseClass - Providing customer details.....
+[INFO ] 2020-06-02 11:38:20.444 [main] BaseClass - Validation started
+[INFO ] 2020-06-02 11:44:55.210 [main] BaseClass - Username provided
+[INFO ] 2020-06-02 11:44:55.323 [main] BaseClass - Password provided
+[INFO ] 2020-06-02 11:45:02.140 [main] BaseClass - Providing customer details.....
+[INFO ] 2020-06-02 11:45:11.244 [main] BaseClass - Validation started
+[INFO ] 2020-06-02 11:49:35.039 [main] BaseClass - Username provided
+[INFO ] 2020-06-02 11:49:35.164 [main] BaseClass - Password provided
+[INFO ] 2020-06-02 11:49:42.577 [main] BaseClass - Providing customer details.....
+[INFO ] 2020-06-02 11:49:51.699 [main] BaseClass - Validation started
+[INFO ] 2020-06-02 11:51:07.439 [main] BaseClass - Username provided
+[INFO ] 2020-06-02 11:51:07.540 [main] BaseClass - Password provided
+[INFO ] 2020-06-02 11:51:15.314 [main] BaseClass - Providing customer details.....
+[INFO ] 2020-06-02 11:51:24.385 [main] BaseClass - Validation started
+[INFO ] 2020-06-02 12:06:40.515 [main] BaseClass - Username provided
+[INFO ] 2020-06-02 12:06:40.634 [main] BaseClass - Password provided
+[INFO ] 2020-06-02 12:06:47.988 [main] BaseClass - Providing customer details.....
+[INFO ] 2020-06-02 12:06:57.470 [main] BaseClass - Validation started
+[INFO ] 2020-06-02 12:11:41.871 [main] BaseClass - Username provided
+[INFO ] 2020-06-02 12:11:42.004 [main] BaseClass - Password provided
+[INFO ] 2020-06-02 12:11:48.962 [main] BaseClass - Providing customer details.....
+[INFO ] 2020-06-02 12:11:59.130 [main] BaseClass - Validation started
+[INFO ] 2020-06-04 11:06:59.633 [main] BaseClass - Username provided
+[INFO ] 2020-06-04 11:06:59.726 [main] BaseClass - Password provided
+[INFO ] 2020-06-04 11:07:07.149 [main] BaseClass - Providing customer details.....
+[INFO ] 2020-06-04 11:07:17.326 [main] BaseClass - Validation started
+[INFO ] 2020-06-04 15:24:01.247 [main] BaseClass - Entered username
+[INFO ] 2020-06-04 15:24:01.330 [main] BaseClass - Entered password
+[INFO ] 2020-06-04 15:24:03.423 [main] BaseClass - Clicked Login button
+[INFO ] 2020-06-04 15:24:03.441 [main] BaseClass - Login test passed
+[INFO ] 2020-06-04 15:25:30.798 [main] BaseClass - Entered username
+[INFO ] 2020-06-04 15:25:30.901 [main] BaseClass - Entered password
+[INFO ] 2020-06-04 15:25:33.069 [main] BaseClass - Clicked Login button
+[INFO ] 2020-06-04 15:25:33.094 [main] BaseClass - Login test passed
+[INFO ] 2020-06-04 15:51:21.596 [main] BaseClass - Entered username
+[INFO ] 2020-06-04 15:51:21.684 [main] BaseClass - Entered password
+[INFO ] 2020-06-04 15:51:24.015 [main] BaseClass - Clicked Login button
+[INFO ] 2020-06-04 15:51:24.043 [main] BaseClass - Login test passed
